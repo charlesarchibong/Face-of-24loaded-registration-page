@@ -63,6 +63,7 @@ include 'https-redirect.php';
                         Face Of 24loaded was brought to you by Emperors bloodline and powered by 24loaded Entertainment(24loaded.com)  <br>
                         <br> 
                         <a href="register"> <p style="width: 100%;" class="text-center btn btn-primary">Click here to register</p></a>
+                        <a href="view-contestants"> <p style="width: 100%; margin-top: 15px;" class="text-center btn btn-primary">View Contestants</p></a>
                     </div>
                 </div>
                 <!-- copyright -->
