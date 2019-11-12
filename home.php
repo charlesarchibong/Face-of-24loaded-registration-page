@@ -51,19 +51,20 @@ include 'https-redirect.php';
                         </ol>
 
                         <b>Note!</b> You are to boost publicity to your friends to enable you win the contest.<br>
-                        After payment, send a screenshot of your teller or receipt of payment with your Full name & Phone Number used in <a href="register">registration</a> to 24loadedentertainment@gmail.com or On WhatsApp 09039619128 or 07068970247. 
+                        After payment, send a screenshot of your teller or receipt of payment with your Full name & Phone Number used in <a href="register">registration</a> to 24loadedentertainment@gmail.com or On WhatsApp 09039619128 or 07068970247.
+                        Else Your Registration will not be approved........  
                         <br>
-                        All payment for Registration will be sent to the following account details:<br>
+                        <br >All payment for Registration will be sent to the following account details:<br>
                         <b>Account Number:</b> 0469424071<br>
                         <b>Account Name:</b> Garba Success Mustapha<br>
                         <b>Bank:</b> GT Bank<br><br>
 
-                        If the winner is within calabar area, we will request a sit out where the cash will be given. If the winner is outside calabar we will request for your account details and make payment Asap.
-
+                        If the winner is within calabar area, we will request a seat out where the cash will be given. If the winner is outside calabar we will request for your account details and make payment Asap. <br >
+                        <br>
                         Face Of 24loaded was brought to you by Emperors bloodline and powered by 24loaded Entertainment(24loaded.com)  <br>
                         <br> 
                         <a href="register"> <p style="width: 100%;" class="text-center btn btn-primary">Click here to register</p></a>
-                        <a href="view-contestants"> <p style="width: 100%; margin-top: 15px;" class="text-center btn btn-primary">View Contestants</p></a>
+                     <a href="view-contestants"> <p style="width: 100%; margin-top: 15px;" class="text-center btn btn-primary">View Contestants</p></a>
                     </div>
                 </div>
                 <!-- copyright -->

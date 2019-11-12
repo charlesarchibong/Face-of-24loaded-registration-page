@@ -161,19 +161,25 @@ p {
 /* reset code */
 
 .signin-form {
-    background: url(../images/face.jpg) no-repeat 0px 0px;
+    background: url(../images/bg1.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 
 .overlay {
-    background: linear-gradient(to right, rgb(29, 75, 174), rgba(219, 71, 53, 0.85));
+    background: linear-gradient(to right, rgb(29, 75, 174), rgba(219, 71, 53, 0.5));
     padding: 4rem 0;
+
 }
 
 a.brand-logo {
     color: var(--white-color);
-    font-weight: bold;
+    font-weight: normal;
     font-size: 38px;
+    font-style: italic;
+    border: solid;
+    border-right: 13px;
+    border-left: 13px;
+    border-radius: 12px;
     text-transform: uppercase;
 }
 
@@ -413,8 +419,11 @@ span.pros span {
 }
 
 .copyright p {
-    font-size: 15px;
-    color: #ccc;
+    font-size: 17px;
+    background-color: black;
+    border-radius: 2px;
+    padding: 10px 10px 10px 10px;
+    color: white;
     line-height: 20px;
     margin-top: 2rem;
 }
